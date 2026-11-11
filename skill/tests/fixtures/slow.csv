@@ -1,0 +1,6 @@
+sender,text,timestamp
+customer,"The app logs me out every few minutes since the update. What is going on?",2026-11-04T15:00:00Z
+agent,"Sorry to hear the app keeps logging you out. That sounds frustrating.",2026-11-04T15:24:00Z
+customer,"Yes, it is really annoying. Is there a fix?",2026-11-04T15:26:00Z
+agent,"We found the cause: update 3.2 shortens session tokens by mistake. Updating to 3.2.1 fixes it.",2026-11-04T15:44:00Z
+customer,"Updated and it seems stable now. Thanks for the fix.",2026-11-04T16:00:00Z
