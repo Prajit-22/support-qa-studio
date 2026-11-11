@@ -1,0 +1,5 @@
+[
+  { "sender": "customer", "text": "My lamp arrived cracked. How do I get a refund?", "timestamp": "2026-11-04T14:00:00Z" },
+  { "sender": "agent", "text": "I'm sorry it arrived damaged. I have started your refund and you will see it in 5 working days.", "timestamp": "2026-11-04T14:01:30Z" },
+  { "sender": "customer", "text": "Great, thanks for the quick help!", "timestamp": "2026-11-04T14:03:00Z" }
+]
