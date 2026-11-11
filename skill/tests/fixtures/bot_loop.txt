@@ -1,0 +1,6 @@
+[04/11/2026, 2:50:00 PM] Kabir: My invoice shows the wrong GST number. Can you update it?
+[04/11/2026, 2:50:20 PM] HelpBot: I don't understand your request. Could you rephrase it?
+[04/11/2026, 2:51:00 PM] Kabir: The GST number on invoice INV-2210 is wrong. Please correct it.
+[04/11/2026, 2:51:10 PM] HelpBot: I am not sure about that. I don't know how to help with invoices.
+[04/11/2026, 2:52:00 PM] Kabir: This is ridiculous. Get me a human agent please.
+[04/11/2026, 2:52:05 PM] HelpBot: I don't understand. Try again later.
